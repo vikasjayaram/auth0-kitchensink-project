@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+inhibit_all_warnings!
+use_frameworks!
+
+target 'Auth0Sample' do
+    pod 'Auth0', '~> 1.14.1'
+    # pod 'Auth0', :git => 'https://github.com/auth0/Auth0.swift.git', :branch => 'fixed-url-encode'
+    pod 'Lock', '~> 2.9'
+
+end
