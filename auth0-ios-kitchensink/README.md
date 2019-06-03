@@ -17,4 +17,4 @@ Once you have that, just clone the project and run the following:
 
 1. Auth0 Universal Login
 2. Embedded Lock login
-3. Native Passwordless
+3. Native Passwordless with `sms` connection
